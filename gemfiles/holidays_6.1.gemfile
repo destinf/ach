@@ -4,4 +4,4 @@ source "https://rubygems.org"
 
 gem "holidays", "~> 6.1.0"
 
-gemspec :path => "../"
+gemspec path: "../"
