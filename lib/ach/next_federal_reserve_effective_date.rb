@@ -3,7 +3,7 @@ require 'holidays'
 module ACH
   class NextFederalReserveEffectiveDate
     FEDERAL_RESERVE_SYMBOL =
-      if Gem.loaded_specs['holidays'] < Gem::Version.new('7.0.0')
+      if Gem.loaded_specs['holidays'].version < Gem::Version.new('7.0.0')
         :federal_reserve
       else
         :federalreserve
