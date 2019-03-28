@@ -1,6 +1,6 @@
 #ACH
 
-[![Build Status](https://travis-ci.org/jm81/ach.svg?branch=master)](https://travis-ci.org/jm81/ach)
+[![Build Status](https://travis-ci.org/jm81/ach.svg?branch=master)](https://travis-ci.org/destinf/ach)
 
 ach is a Ruby helper for builder ACH files. In particular, it helps with field
 order and alignment, and adds padding lines to end of file.
