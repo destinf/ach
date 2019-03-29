@@ -18,11 +18,6 @@ gemfile:
 - gemfiles/holidays_3.3.gemfile
 - gemfiles/holidays_3.2.gemfile
 - gemfiles/holidays_3.1.gemfile
-- gemfiles/holidays_3.0.gemfile
-- gemfiles/holidays_2.2.gemfile
-- gemfiles/holidays_2.1.gemfile
-- gemfiles/holidays_2.0.gemfile
-- gemfiles/holidays_1.2.gemfile
 language: ruby
 matrix:
   exclude:
