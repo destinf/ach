@@ -12,37 +12,57 @@ end
 # ################
 # 6.x
 # ################
-appraise "holidays-6.0" do
-  gem "holidays", "~> 6.0.0"
-end
-
-appraise "holidays-6.1" do
-  gem "holidays", "~> 6.1.0"
-end
-
-appraise "holidays-6.2" do
-  gem "holidays", "~> 6.2.0"
-end
-
-appraise "holidays-6.3" do
-  gem "holidays", "~> 6.3.0"
-end
-
-appraise "holidays-6.5" do
-  gem "holidays", "~> 6.5.0"
+appraise "holidays-6.6.1" do
+  gem "holidays", "~> 6.6.1"
 end
 
 appraise "holidays-6.6" do
   gem "holidays", "~> 6.6.0"
 end
 
-appraise "holidays-6.6.1" do
-  gem "holidays", "~> 6.6.1"
+appraise "holidays-6.5" do
+  gem "holidays", "~> 6.5.0"
+end
+
+appraise "holidays-6.3" do
+  gem "holidays", "~> 6.3.0"
+end
+
+appraise "holidays-6.2" do
+  gem "holidays", "~> 6.2.0"
+end
+
+appraise "holidays-6.1" do
+  gem "holidays", "~> 6.1.0"
+end
+
+appraise "holidays-6.0" do
+  gem "holidays", "~> 6.0.0"
 end
 
 # ################
 # 5.x
 # ################
+appraise "holidays-5.7" do
+  gem "holidays", "~> 5.7.0"
+end
+
+appraise "holidays-5.6" do
+  gem "holidays", "~> 5.6.0"
+end
+
+appraise "holidays-5.5.1" do
+  gem "holidays", "~> 5.5.1"
+end
+
+appraise "holidays-5.5" do
+  gem "holidays", "~> 5.5.0"
+end
+
+appraise "holidays-5.4" do
+  gem "holidays", "~> 5.4.0"
+end
+
 appraise "holidays-5.3" do
   gem "holidays", "~> 5.3.0"
 end
