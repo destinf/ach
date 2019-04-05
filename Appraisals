@@ -24,6 +24,10 @@ appraise "holidays-6.5" do
   gem "holidays", "~> 6.5.0"
 end
 
+appraise "holidays-6.4" do
+  gem "holidays", "~> 6.4.0"
+end
+
 appraise "holidays-6.3" do
   gem "holidays", "~> 6.3.0"
 end
